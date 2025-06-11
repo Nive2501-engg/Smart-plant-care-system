@@ -1,7 +1,7 @@
 A Smart Plant Care System is an intelligent, often IoT-enabled solution designed to monitor and manage the environmental needs of plants automatically. These systems are especially useful for people who want to ensure healthy plant growth without constantly checking on their plants.
 
 🌿 Key Components of a Smart Plant Care System
-Sensors
+Sensors::
 These measure real-time environmental and soil parameters:
 
 Soil moisture sensor – Monitors water content.
@@ -12,13 +12,13 @@ Temperature and humidity sensor (e.g., DHT11/22) – Tracks ambient conditions.
 
 pH sensor (optional) – For soil acidity/alkalinity.
 
-Microcontroller
+Microcontroller::
 
 Commonly used: Arduino, Raspberry Pi, or ESP32/NodeMCU.
 
 Collects data from sensors and controls actuators.
 
-Actuators
+Actuators::
 
 Water pump or solenoid valve – Automatically irrigates plants.
 
@@ -26,11 +26,11 @@ LED grow lights – Supplement light if insufficient.
 
 Fan or heater (optional) – Regulates temperature/humidity.
 
-Power Supply
+Power Supply::
 
 Typically a battery pack, solar panel, or direct power adapter.
 
-Connectivity
+Connectivity::
 
 Wi-Fi, Bluetooth, or LoRa for remote monitoring.
 
